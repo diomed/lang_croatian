@@ -1,7 +1,7 @@
-# Language: German
+# Language: Croatian (Hrvatski)
 
 German translation of [Symphony](http://www.getsymphony.com).  
-Deutsche Übersetzung von [Symphony](http://www.getsymphony.de).
+Hrvatski prijevod za Symphony CMS.
 
 ## Installation & Updating
 
