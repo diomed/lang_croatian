@@ -1,13 +1,12 @@
 <?php
 
 	$about = array(
-		'name' => 'Deutsch',
+		'name' => 'Hrvatski',
 		'author' => array(
-			'name' => 'Büro für Web- und Textgestaltung',
-			'email' => 'buero@hananils.de',
-			'website' => 'http://hananils.de'
+			'email' => 'yoshimitsu002@gmail.com',
+			'website' => 'http://www.monoplus.vlexofree.com'
 		),
-		'release-date' => '2016-03-16'
+		'release-date' => '2016-08-12'
 	);
 
 	/**
@@ -16,7 +15,7 @@
 	$dictionary = array(
 
 		'$param' => 
-		'$parameter',
+		'$parametar',
 
 		'%1$s &ndash; %2$s' => 
 		'%1$s &ndash; %2$s',
@@ -25,202 +24,202 @@
 		'%1$s &ndash; %2$s &ndash; %3$s',
 
 		'%1$s is not a supported encoding type. Please use %2$s or %3$s. You can also use %4$s for no encoding.' => 
-		'%1$s ist keine unterstützte Kodierungsart. Bitte verwenden Sie %2$s oder %3$s. Die Verwendung von %4$s überspringt die Kodierung.',
+		'%1$s nije podržan tip enkodinga. Molimo koristite %2$s ili %3$s. Isto tako možete koristiti %4$s for no encoding.',
 
 		'%1$s released on %2$s' => 
-		'%1$s veröffentlicht am %2$s',
+		'%1$s izdana %2$s',
 
 		'%s ' => 
 		'%s ',
 
 		'%s Allow remote login via' => 
-		'%s Remotezugriff erlauben via',
+		'%s Dopusti udaljeni login sa',
 
 		'%s Checked by default' => 
-		'%s Standardmäßig ausgewählt.',
+		'%s defaultno odabrana.',
 
 		'%s Requires authentication' => 
-		'%s Autorisierung erforderlich',
+		'%s Traži autentifikaciju',
 
 		'%s accepts strings only; arrays are not allowed.' => 
-		'%s akzeptiert ausschließlich Zeichenketten; Arrays sind nicht erlaubt.',
+		'%s prihvaća samo stringove*; nizovi nisu dozvoljeni.',
 
 		'%s has timed out' => 
-		'Zeitüberschreitung für %s',
+		'%s je istekao',
 
 		'%s is a reserved name used by the system and is not allowed for a field handle. Try using %s instead.' => 
-		'%s is ein reservierter Systemname, der nicht als Feldbezeichner erlaubt ist. Versuchen Sie %s anstelledessen.',
+		'%s je rezervirano ime korišteno od sustava i nije dopušteno za Identifikator polja. Pokušaj koristiti %s umjesto toga',
 
 		'&larr; Previous' => 
-		'&larr; Vorherige',
+		'&larr; Prošli',
 
 		'\'%s\' contains invalid data. Please check the contents.' => 
-		'\'%s\' enthält ungültige Daten. Bitte überprüfen Sie den Inhalt.',
+		'\'%s\' sadrži nevaljane podatke. Molimo provjeri sadržaj.',
 
 		'A 403 type page already exists.' => 
-		'Es existiert bereits eine 403-Fehlerseite.',
+		'Stranica tipa 403 već postoji',
 
 		'A 404 type page already exists.' => 
-		'Es existiert bereits eine 404-Fehlerseite.',
+		'Stranica tipa 404 već postoji.',
 
 		'A Data source with the name %s already exists' => 
-		'Eine Datenquelle mit dem Namen %s existiert bereits',
+		'Izvor podataka sa imenom %s već postoji',
 
 		'A Section with the handle %s already exists' => 
-		'Ein Bereich mit der Bezeichnung %s existiert bereits',
+		'Sekcija sa Identifikatorom %s već postoji',
 
 		'A database error occurred while attempting to reorder.' => 
-		'Beim Neuordnen ist ein Datenbankfehler aufgetreten.',
+		'Dogodila se greška u databazi pri pokušaju promjene redosljeda.',
 
 		'A field with that element name already exists. Please choose another.' => 
-		'Ein Feld mit diesem Elementnamen existiert bereits. Bitte wählen Sie einen anderen.',
+		'Polje s tim elementom već postoji. Molimo odaberite drugo.',
 
 		'A field with this handle already exists. All handle must be unique.' => 
-		'Ein Feld mit diesem Bezeichner existiert bereits. Bezeichner müssen eindeutig sein.',
+		'Polje s ovim Identifikatorom već postoji. Svi Identifikatori moraju biti jedinstveni.',
 
 		'A new password has been requested for your account. Login using the following link, and change your password via the Authors area:' => 
-		'Ein neues Passwort wurde für Ihren Zugang angefordert. Sie können sich anmelden, indem Sie nachfolgendem Link folgen, und dann Ihr Passwort im Autorenbereich ändern:',
+		'Nova lozinka za tvoj račun je bila zatražena. Ulogiraj se koristeći sljedeći link i promijeni svoju lozinku u autorskom području:',
 
 		'A page number must be set' => 
-		'Eine Seitenzahl muss festgelegt werden',
+		'Broj stranice mora biti postavljen',
 
 		'A page with that handle already exists' => 
-		'Es existiert bereits eine Seite mit diesem Bezeichner.',
+		'Stranica sa tim Identifikatorom već postoji.',
 
 		'A page with that title already exists' => 
-		'Es existiert bereits eine Seite mit diesem Titel.',
+		'Stranica sa tim imenom već postoji.',
 
 		'A result limit must be set' => 
-		'Eine Ergebnisobergrenze muss festgelegt werden',
+		'Limit rezultata mora biti postavljen',
 
 		'Access Denied' => 
-		'Zugriff verweigert',
+		'Pristup je odbijen',
 
 		'Actions' => 
-		'Aktionen',
+		'Akcije',
 
 		'Add field' => 
-		'Feld hinzufügen',
+		'Dodaj polje',
 
 		'Add fields' => 
-		'Felder hinzufügen',
+		'Dodaj polja',
 
 		'Add filter' => 
-		'Filter hinzufügen',
+		'Dodaj filtar',
 
 		'Add item' => 
-		'Hinzufügen',
+		'Dodaj stavku',
 
 		'Admin Only' => 
-		'Nur Administratoren',
+		'Samo Administrator',
 
 		'All' => 
-		'Alle',
+		'Sve',
 
 		'All of these fields can be set dynamically using the exact field name of another field in the form as shown below in the example form:' => 
-		'Alle diese Felder können dynamisch befüllt werden, indem Sie den genauen Feldnamen eines anderen Feldes des Formulares verwenden, wie das nachfolgende Beispiel zeigt:',
+		'Sva ova polja mogu biti postavljena dinamički, koristeći točno ime drugog polja u formi kako je prikazano ispod u primjeru forme:',
 
 		'Allow Multiple' => 
-		'Mehrere zulassen',
+		'Dopusti mnogostruke',
 
 		'An Event with the name %s already exists' => 
-		'Ein Ereignis mit dem Namen %s existiert bereits',
+		'Događaj sa imenom %s već postoji',
 
 		'An email containing a customised login link has been sent to %s. It will expire in 2 hours.' => 
-		'Eine E-Mail mit einem personalisierten Anmeldelink wurden an %s gesendet. Dieser Links verfällt in 2 Stunden.',
+		'E-mail koji sadržava naručeni login link je poslan na %s. Link će isteći za 2 sata.',
 
 		'An error occurred while processing this form. See below for details.' => 
-		'Beim Verarbeiten dieses Formulars ist ein Fehler aufgetreten. Details siehe unten.',
+		'Došlo je do greške prilikom procesiranja ove forme. Vidi ispod za detalje.',
 
 		'An error occurred while retrieving filtered entries. Showing all entries instead.' => 
-		'Beim Anfordern gefilterter Einträge ist ein Fehler aufgetreten. Es werden daher alle Einträge angezeigt.',
+		'Došlo je do greške prilikom vraćanja filtriranih unosa. Umjesto toga prikazuju se svi unosi.',
 
 		'An extension requires updating.' => 
-		'Eine Erweiterung muss aktualisiert werden.',
+		'Extenzija zahtijeva ažuriranje.',
 
 		'An index type page already exists.' => 
-		'Es existiert bereits eine Index-Seite.',
+		'Index tip stranice već postoji',
 
-		'An unknown database occurred while attempting to create the section.' => 
-		'Es ist ein unbekannter Datenbankfehler beim Erstellen des Bereiches aufgetreten.',
+		'An unknown database error occurred while attempting to create the section.' => 
+		'Nepoznata greška u bazi podataka dogodila se pri pokušaju stvaranja sekcije.',
 
 		'An update has been found in your installation to upgrade Symphony to %s.' => 
-		'Eine Aktualisierung auf Symphony %s wurde für Ihre Installation gefunden.',
+		'Ažuriranje je nađeno za tvoju instalaciju, da bi izvršio nadogradnju Symphony na %s ',
 
 		'An update script has been found in your installation.' => 
-		'Für Ihre Installation steht eine Aktualisierung zur Verfügung.',
+		'U tvojoj instalaciji pronađena je skripta za obnavljanje.',
 
 		'Apply' => 
-		'Anwenden',
+		'Primijeni',
 
 		'Apply filters' => 
-		'Filter anwenden',
+		'Primijeni filtre',
 
 		'Apr' => 
-		'Apr',
+		'Tra',
 
 		'April' => 
-		'April',
+		'Travanj',
 
 		'Are you sure you want to delete all entries in the selected sections?' => 
-		'Sind Sie sicher, dass Sie alle Einträge in den ausgewählten Bereichen löschen möchten?',
+		'Želiš li zaista izbrisati sve unose u odabranim sekcijama?',
 
 		'Are you sure you want to delete the selected entries?' => 
-		'Sind Sie sicher, dass Sie die ausgewählten Einträge löschen möchten?',
+		'Želiš li zaista izbrisati odabrane stavke?',
 
 		'Are you sure you want to delete the selected pages?' => 
-		'Sind Sie sicher, dass Sie die ausgewählten Seiten löschen möchten?',
+		'Želiš li zaista izbrisati odabrane stranice?',
 
 		'Are you sure you want to delete the selected sections?' => 
-		'Sind Sie sicher, dass Sie die ausgewählten Bereiche löschen möchten?',
+		'Želiš li zaista izbrisati odabrane sekcije?',
 
 		'Are you sure you want to delete this author?' => 
-		'Sind Sie sicher, dass Sie diesen Autor löschen möchten?',
+		'Želiš li zaista izbrisati ovog autora?',
 
 		'Are you sure you want to delete this data source?' => 
-		'Sie Sie sicher, dass Sie diese Datenquelle löschen möchten?',
+		'Želiš li zaista izbrisati ovaj izvor podataka?',
 
 		'Are you sure you want to delete this entry?' => 
-		'Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?',
+		'Želiš li zaista izbrisati ovaj unos?',
 
 		'Are you sure you want to delete this event?' => 
-		'Sind Sie sicher, dass Sie dieses Ereignis löschen möchten?',
+		'Želiš li zaista izbrisati ovaj događaj?',
 
 		'Are you sure you want to delete this page?' => 
-		'Sind Sie sicher, dass Sie diese Seite löschen möchten?',
+		'Želiš li zaista izbrisati ovu stranicu?',
 
 		'Are you sure you want to delete this section?' => 
-		'Sind Sie sicher, dass Sie diesen Bereich löschen möchten?',
+		'Želiš li zaista izbrisati ovu sekciju?',
 
 		'Are you sure you want to proceed?' => 
-		'Sind Sie sicher, dass Sie fortfahren möchten?',
+		'Želiš li zaista nastaviti?',
 
 		'Are you sure you want to uninstall the selected extensions?' => 
-		'Sind Sie sicher, dass Sie die ausgewählten Erweiterungen deinstallieren möchten?',
+		'Želiš li zaista deinstalirati odabrane extenzije?',
 
 		'Argument `$%1$s` is not of type `%2$s`, given `%3$s`.' => 
-		'Das Argument ‚$%1$‘ entspricht nicht dem Typ ‚%2$‘, ‚%3$s‘ übergeben',
+		'Argument ‚$%1$‘ nije tipa ‚%2$‘, ‚%3$s‘ übergeben',
 
 		'Association Editor' => 
-		'Editor für Verknüpfungen',
+		'Asociacijski Editor',
 
 		'Association Interface' => 
-		'Interface für Verknüpfungen',
+		'Asociacijsko sučelje',
 
 		'At least one source must be specified, dynamic or static.' => 
-		'Mindestens eine Quelle, dynamisch oder statisch, muss festgelegt werden.',
+		'Bar jedan izvor mora biti specificiran, dinamički ili statički.',
 
 		'Attach to Page' => 
-		'Seitenverknüpfung herstellen',
+		'Prikači za stranicu',
 
 		'Attach to Pages' => 
-		'Zu Seiten hinzufügen',
+		'Prikači stranicama',
 
 		'Aug' => 
-		'Aug',
+		'Kol',
 
 		'August' => 
-		'August',
+		'Kolovoz',
 
 		'Author' => 
 		'Autor',
@@ -229,190 +228,190 @@
 		'Autor-ID',
 
 		'Author created at %s.' => 
-		'Autor um %s erstellt.',
+		'Autor je stvorio u %s.',
 
 		'Author not found' => 
-		'Autor nicht gefunden',
+		'Autor nije nađen',
 
 		'Author types' => 
-		'Autorentypen',
+		'Tipovi autora',
 
 		'Author updated at %s.' => 
-		'Autor um %s aktualisiert.',
+		'Autor je ažurirao u %s.',
 
 		'Authors' => 
-		'Autoren',
+		'Autori',
 
 		'Authors can set up a differing language in their profiles.' => 
-		'Autoren können in Ihren Profilen eine abweichende Sprache einstellen.',
+		'Autori mogu postaviti drugi jezik u svojim profilima.',
 
 		'Best Regards,' => 
-		'Mit freundlichen Grüßen,',
+		'S najboljim željama',
 
 		'Blueprints' => 
-		'Blaupausen',
+		'Nacrti',
 
 		'Can not add the element itself as one of its child' => 
-		'Das Element kann nichts als sein eigenes Kind hinzugefügt werden',
+		'Ne možeš dodati sam element kao jedno od njegove djece.',
 
 		'Can not call AUTH again.' => 
-		'AUTH darf nicht noch einmal aufgerufen werden.',
+		'Ne mogu zvati AUTH opet.',
 
 		'Can not call HELO on existing session' => 
-		'HELO kann in der laufenden Session nicht aufgerufen werden',
+		'Ne mogu zvati HELO on existing session',
 
 		'Cancel' => 
-		'Abbrechen',
+		'Otkaži',
 
 		'Cannot request a page callback without first specifying the page.' => 
-		'Ohne eine Seiteangabe, kann kein Seiten-Callback angefordert werden.',
+		'Ne možeš zahtjevati page callback bez da prvo specificiraš stranicu.',
 
 		'Change Password' => 
-		'Passwort ändern',
+		'Promijeni lozinku',
 
 		'Check your activity log' => 
-		'Überprüfen Sie Ihr Fehler-Logbuch',
+		'Provjeri svoj dnevnik aktivnosti',
 
 		'Checkbox' => 
-		'Kontrollkästchen',
+		'Kućica [gumb koji izvršava funkciju]',
 
 		'Children' => 
-		'Kinder',
+		'Djeca',
 
 		'Clear' => 
-		'Löschen',
+		'Očisti',
 
 		'Clear filter' => 
-		'Filter löschen',
+		'Očisti filtar',
 
 		'Clear filters' => 
-		'Filter löschen',
+		'Očisti filtre',
 
 		'Click to select' => 
-		'Zum Auswählen klicken',
+		'Klikni da bi odabrao',
 
 		'Collapse all' => 
-		'Alle schließen',
+		'Sažmi sve',
 
 		'Comparison mode' => 
-		'Vergleichsmodus',
+		'Mod za uspoređivanje',
 
 		'Conditions' => 
-		'Bedingung',
+		'Uvjeti',
 
 		'Confirm Password' => 
-		'Passwort wiederholen',
+		'Potvrdi lozinku',
 
 		'Confirmation' => 
-		'Bestätigung',
+		'Potvrda',
 
 		'Content' => 
-		'Inhalte',
+		'Sadržaj',
 
 		'Could not find Data Source %s.' => 
-		'Konnte Datenquelle %s nicht finden.',
+		'Izvor podataka nije nađen.',
 
 		'Could not find Email Gateway %s.' => 
-		'E-Mail-Gateway %s konnte nicht gefunden werden.',
+		'E-Mail-Gateway %s nije nađen.',
 
 		'Could not find Event %s.' => 
-		'Ereignis %s konnte nicht gefunden werden.',
+		'Događaj %s nije nađen.',
 
 		'Could not find Field %1$s at %2$s.' => 
-		'Das Feld %1$s konnten nicht unter %2$s gefunden werden.',
+		'Ne mogu pronaći polje %1$s at %2$s.',
 
 		'Could not find Text Formatter %s.' => 
-		'Textformatierer %s konnte nicht gefunden werden.',
+		'Text Formater %s nije nađen.',
 
 		'Could not find extension %s at location %s.' => 
-		'Die Erweiterung %s konnte nicht am Ziel %s gefunden werden.',
+		'Extenzija %s nije nađena na ovoj lokaciji.',
 
 		'Could not read from %s' => 
-		'%s konnte nicht gelesen werden',
+		'Ne mogu pročitati iz %s',
 
 		'Could not send request: %s' => 
-		'Anfrage konnte nicht gesendet werden: %s',
+		'Ne mogu poslati zahtjev: %s',
 
 		'Create Author' => 
-		'Autor erstellen',
+		'Stvori Autora',
 
 		'Create Data Source' => 
-		'Datenquelle erstellen',
+		'Stvori izvor podataka',
 
 		'Create Entry' => 
-		'Eintrag erstellen',
+		'Stvori',
 
 		'Create Event' => 
-		'Ereignis erstellen',
+		'Stvori događaj',
 
 		'Create New' => 
-		'Neu erstellen',
+		'Stvori novi',
 
 		'Create Page' => 
-		'Seite erstellen',
+		'Stvori Stranicu',
 
 		'Create Section' => 
-		'Bereich erstellen',
+		'Stvori Sekciju',
 
 		'Create a new author' => 
-		'Neuen Autor erstellen',
+		'Stvori novog autora',
 
 		'Create a new data source' => 
-		'Neue Datenquelle erstellen',
+		'Stvori novi Izvor podataka',
 
 		'Create a new entry' => 
-		'Neuen Eintrag erstellen',
+		'Stvori novi unos*',
 
 		'Create a new event' => 
-		'Neues Ereignis erstellen',
+		'Stvori novi događaj',
 
 		'Create a new page' => 
-		'Neue Seite erstellen',
+		'Stvori novu stranicu',
 
 		'Create a section' => 
-		'Bereich erstellen',
+		'Stvori sekciju',
 
 		'Create another?' => 
-		'Einen neuen erstellen?',
+		'Da stvorim iduću?',
 
 		'Created by %1$s at %2$s' => 
-		'Von %1$s um %2$s erstellt',
+		'Stvoreno od %1$s u %2$s',
 
 		'Custom Preferences' => 
-		'Benutzerdefinierte Einstellungen',
+		'Specifične Postavke',
 
 		'Custom XML' => 
-		'Benutzerdefiniertes XML',
+		'Specifični XML',
 
 		'Data Source' => 
-		'Datenquelle',
+		'Izvor podataka',
 
 		'Data Source created at %s.' => 
-		'Datenquelle wurde um %s erstellt.',
+		'Izvor podataka stvoren u %s.',
 
 		'Data Source updated at %s.' => 
-		'Datenquelle wurde um %s aktualisiert.',
+		'Izvor podataka ažuriran u %s.',
 
 		'Data Sources' => 
-		'Datenquellen',
+		'Izvori podataka',
 
 		'Data returned is invalid.' => 
-		'Die Rückgabewerte sind ungültig.',
+		'Vraćeni podaci nisu valjani.',
 
 		'Data source not executed, forbidden parameter was found.' => 
-		'Datenquelle wurde nicht ausgefüht, weil ein nicht erlaubtes Parameter verwendet wurde.',
+		'Izvor podataka nije izvršen, jer je pronađen zabranjeni parametar.',
 
 		'Data source not executed, required parameter is missing.' => 
-		'Datenquelle wurde nicht ausgeführt, weil ein Pflichtparameter nicht gesetzt ist.',
+		'Izvor podataka nije izvršen, traženi parametar nedostaje.',
 
 		'Data source output grouping is not supported by the %s field' => 
-		'Die Gruppierung der Datenquellenausgabe wird vom Feld %s nicht unterstützt',
+		'Grupiranje outputa* izvora podataka nije podržano za polje %s',
 
 		'DataSource' => 
-		'Datenquelle',
+		'Izvor podataka',
 
 		'Database Error' => 
-		'Datenbankfehler',
+		'Greška u bazi podataka',
 
 		'Date' => 
 		'Datum',
@@ -421,307 +420,307 @@
 		'Debug',
 
 		'Dec' => 
-		'Dez',
+		'Pro',
 
 		'December' => 
-		'Dezember',
+		'Prosinac',
 
 		'Default Area' => 
-		'Standardbereich',
+		'Standardno područje',
 
 		'Default Cache Settings' => 
-		'Standardzwischenspeichereinstellungen',
+		'Default Cache Postavke',
 
 		'Default Email Settings' => 
-		'E-Mail-Versand',
+		'E-Mail Postavke',
 
 		'Default date' => 
-		'Standarddatum',
+		'Standarni datum',
 
 		'Delete' => 
-		'Löschen',
+		'Obriši',
 
 		'Delete Entries' => 
-		'Einträge löschen',
+		'Obriši unose',
 
 		'Delete this author' => 
-		'Diesen Autor löschen',
+		'Obriši ovog autora',
 
 		'Delete this data source' => 
-		'Diese Datenquelle löschen',
+		'Obriši ovaj Izvor podataka',
 
 		'Delete this entry' => 
-		'Diesen Eintrag löschen',
+		'Obriši ovaj unos',
 
 		'Delete this event' => 
-		'Dieses Ereignis löschen',
+		'Obriši ovaj Događaj',
 
 		'Delete this page' => 
-		'Diese Seite löschen',
+		'Obriši ovu stranicu',
 
 		'Delete this section' => 
-		'Diesen Bereich löschen',
+		'Obriši ovu sekciju',
 
 		'Description' => 
-		'Beschreibung',
+		'Opis',
 
 		'Destination Directory' => 
-		'Zielordner',
+		'Direktorij',
 
 		'Destination folder is not writable.' => 
-		'Der Zielordner ist nicht beschreibbar.',
+		'U direktorij nije omogućeno pisanje.',
 
 		'Detach from Page' => 
-		'Seitenverknüpfung aufheben',
+		'Detach sa stranice',
 
 		'Developer' => 
-		'Entwickler',
+		'Developer',
 
 		'Disable' => 
-		'Deaktivieren',
+		'Deaktiviraj',
 
 		'Disabled' => 
-		'Deaktiviert',
+		'Deaktivirano',
 
 		'Documentation' => 
-		'Documentation',
+		'Dokumentacija',
 
 		'Dynamic Values' => 
-		'Dynamische Werte',
+		'Dinamičke Vrijednosti',
 
 		'E-mail address entered is invalid' => 
-		'Die eingegebene E-Mail-Adresse ist ungültig',
+		'Unesena e-mail adresa  nije valjana',
 
 		'E-mail address is already taken' => 
-		'E-Mail-Adresse bereits in Verwendung',
+		'E-Mail adresa je već zauzeta',
 
 		'E-mail address is required' => 
-		'Die E-Mail-Adresse ist eine Pflichtangabe',
+		'E-mail adresa je tražena',
 
 		'Edit' => 
-		'Bearbeiten',
+		'Uredi',
 
 		'Edit Section' => 
-		'Bereich bearbeiten',
+		'Uredi Sekciju',
 
 		'Edit Section Configuration' => 
-		'Bereichseinstellungen bearbeiten',
+		'Uredi Konfiguraciju Sekcije',
 
 		'Email' => 
 		'E-Mail',
 
 		'Email Address' => 
-		'E-Mail-Adresse',
+		'E-Mail-Adresa',
 
 		'Email Address or Username' => 
-		'E-Mail-Adresse oder Benutzername',
+		'E-mail adresa ili Korisničko ime',
 
 		'Email Gateway Error' => 
-		'E-Mail-Gateway-Fehler',
+		'E-Mail-Gateway Greška',
 
 		'Email subject cannot be empty.' => 
-		'Der Betreff darf nicht leer sein.',
+		'Naslov e-maila ne može ostati prazan.',
 
 		'Email this author' => 
-		'Dieses Autor anschreiben',
+		'Pošalji e-mail ovom autoru',
 
 		'Email: SMTP' => 
 		'E-Mail: SMTP',
 
 		'Email: Sendmail' => 
-		'E-Mail: Sendmail',
+		'E-Mail: Pošalji mail',
 
 		'Enable' => 
-		'aktivieren',
+		'Omogući',
 
 		'Enabled' => 
-		'Aktiviert',
+		'Omogućeno',
 
 		'Enforced type `%1$s` for argument `$%2$s` does not match any known variable types.' => 
-		'Erzwungener Typ `%1$s` für das Argument `$%2$s` enspricht keinem bekannten Variablentyp.',
+		'Enforced type `%1$s` za argument `$%2$s` se ne slaže sa ijednim tipom varijabli.',
 
 		'Enter valid XML, exclude XML declaration' => 
-		'Gültiges XML ohne XML-Deklaration eingeben',
+		'Unesi valjani XML, isključi XML deklaraciju ',
 
 		'Enter your email address or username to be sent further instructions for logging in.' => 
-		'Geben Sie Ihre E-Mail-Adresse oder Ihren Benutzernamen ein, um weitere Informationen zur Anmeldung zu erhalten.',
+		'Unesi svoju email adresu ili korisničko ime kako bi ti bile poslane daljnje instrukcije za prijavu.',
 
 		'Entries' => 
-		'Einträge',
+		'Unosi',
 
 		'Entries per Page' => 
-		'Einträge pro Seite',
+		'Unosi po Stranici',
 
 		'Entry [created | edited] successfully.' => 
-		'Eintrag erfolgreich [erstellt | bearbeitet].',
+		'Unos je uspješno [uređen | stvoren].',
 
 		'Entry created at %s.' => 
-		'Eintrag um %s erstellt.',
+		'Unos je stvoren u %s.',
 
 		'Entry created successfully.' => 
-		'Eintrag erfolgreich erstellt.',
+		'Unos je uspješno stvoren.',
 
 		'Entry edited successfully.' => 
-		'Eintrag erfolgreich bearbeitet.',
+		'Unos je uspješno uređen.',
 
 		'Entry encountered errors when saving.' => 
-		'Beim Speichern des Eintrags sind Fehler aufgetreten.',
+		'Unos je doživio pogreške pri spremanju.',
 
 		'Entry limit specified was not a valid type. String or Integer expected.' => 
-		'Die festgelegte Obergrenze entspricht keinem gültigen Typ. String oder Integer erwartet.',
+		'Specified Entry limit nije bio valjanog tipa. String ili Integer expected.',
 
 		'Entry updated at %s.' => 
-		'Eintrag um %s aktualisiert.',
+		'Unos je ažuriran u %s.',
 
 		'Error creating Symphony extension manager.' => 
-		'Fehler beim Erstellen des Symphony-Erweiterungsmanagers.',
+		'Greška pri kreiranju Symphony extension manager.',
 
 		'Error creating field object with id %1$d, for filtering in data source %2$s. Check this field exists.' => 
-		'Beim Erstellen das Feldobjekts mit der ID %1$d für die Filterung der Datenquelle %2$s ist ein Fehler aufgetreten. Überprüfen Sie, ob das Feld existiert.',
+		'Greška pri kreiranju field object sa id %1$d za filtriranje u Izvor podataka %2$. Provjeri da ovo polje postoji.',
 
 		'Essentials' => 
-		'Grundangaben',
+		'Glavne stvari',
 
 		'Event' => 
-		'Ereignis',
+		'Događaj',
 
 		'Event Filters add additional conditions or actions to an event.' => 
-		'Filter fügen einem Ereignis zusätzliche Bedingungen oder Aktionen hinzu',
+		'Event Filtri dodaju dodatne uvjete ili akcije događaju',
 
 		'Event created at %s.' => 
-		'Ereignis um $s erstellt.',
+		'Događaj je stvoren u %s.',
 
 		'Event updated at %s.' => 
-		'Ereignis um %s aktualisiert.',
+		'Događaj je ažuriran u %s.',
 
 		'Events' => 
-		'Ereignisse',
+		'Događaji',
 
 		'Example Front-end Form Markup' => 
-		'Beispiel-Frontend-Formular',
+		'Example Front-end-Form Markup',
 
 		'Example XML' => 
-		'Beispiel-XML',
+		'Primjer XML-a',
 
 		'Existing Values' => 
-		'Existierende Werte',
+		'Postojeće Vrijednosti',
 
 		'Expand all' => 
-		'Alle öffnen',
+		'Proširi sve',
 
 		'Extensions' => 
-		'Erweiterungen',
+		'Extenzije',
 
 		'Failed to delete %s.' => 
-		'Löschen von %s fehlgeschlagen',
+		'Brisanje %s nije uspjelo',
 
 		'Failed to load URL, status code %d was returned.' => 
 		'URL konnte nicht geladen werden, Status-Code %d wurden zurückgegeben.',
 
 		'Failed to write Data source to disk.' => 
-		'Datenquelle konnte nicht gespeichert werden.',
+		'Failed to write Izvor podataka na disk.',
 
 		'Failed to write Event to disk.' => 
-		'Ereignis konnte nicht gespeichert werden.',
+		'Failed to write Događaj na disk.',
 
 		'Feb' => 
-		'Feb',
+		'Velj',
 
 		'February' => 
-		'Februar',
+		'Veljača',
 
 		'Fields' => 
-		'Felder',
+		'Polja',
 
 		'Fields must be added to this section before an entry can be created.' => 
-		'Bevor sie einen Eintrag erstellen können, müssen Sie dem Bereich Felder hinzufügen.',
+		'Polja moraju biti dodana ovoj sekciji prije no što unos može biti stvoren.',
 
 		'File Upload' => 
-		'Dateiupload',
+		'Upload Fajla',
 
 		'File chosen in ‘%1$s’ exceeds the maximum allowed upload size of %2$s specified by your host.' => 
-		'Die in ‚%1$s‘ ausgewählte Datei überschreitet die maximal von Ihrem Host erlaubte Dateigröße von %2$s',
+		'Fajl odabran u ‚%1$s‘ prelazi maximalno dopuštenu veličinu uploada od %2$s određenu tvojim hostingom',
 
 		'File chosen in ‘%1$s’ exceeds the maximum allowed upload size of %2$s, specified by Symphony.' => 
-		'Die in ‚%1$s‘ ausgewählte Datei überschreitet die maximal von Symphony erlaubte Dateigröße von %2$s',
+		'Fajl odabran u ‚%1$s‘ prelazi maximalno dopuštenu veličinu uploada određenu tvojom Symphony instalacijom %2$s',
 
 		'File chosen in ‘%s’ does not match allowable file types for that field.' => 
-		'Die in ‚%s‘ gewählte Datei entspricht keinen zugelassenen Dateityp für dieses Feld.',
+		'Fal odabran u ‚%s‘ ne slaže se sa dopuštenim timovima fajla za to polje.',
 
 		'File chosen in ‘%s’ was only partially uploaded due to an error.' => 
-		'Die in ‚%s‘ ausgewählte Datei wurde aufgrund eines Fehlers nur teilweise hochgeladen.',
+		'Fajl odabran u  ‚%s‘ je samo djelomično uploadan zbog greške.',
 
 		'Filter Entries' => 
-		'Einträge filtern',
+		'Filtriraj unose',
 
 		'Filters' => 
-		'Filter',
+		'Filtri',
 
 		'Find values that are an exact match for the given string.' => 
-		'Finde Werte, die einer gegebenen Zeichenkette exakt entsprechen.',
+		'Pronađi vrijednosti koje se točno slažu sa danim stringom.',
 
 		'Find values that do not match the given <a href="%s">MySQL regular expressions</a>.' => 
-		'Finde Werte, die nicht einem gegebenen <a href="%s">regulären MySQL-Ausdruck</a> entsprechen. ',
+		'Pronađi vrijednosti koje se ne slažu sa danim <a href="%s">regulären MySQL regularnim expresijama</a>. ',
 
 		'Find values that match the given <a href="%s">MySQL regular expressions</a>.' => 
-		'Finde Werte, die einem gegebenen <a href="%s">regulären MySQL-Ausdruck</a> entsprechen. ',
+		'Pronađi vrijednosti koje se slažu sa  danim <a href="%s">MySQL regularnim expresijama</a>. ',
 
 		'First' => 
-		'Erste',
+		'Prvi',
 
 		'First Name' => 
-		'Vorname',
+		'Ime',
 
 		'First name is required' => 
-		'Der Vorname ist eine Pflichtangabe',
+		'Ime je traženo',
 
 		'For a secure connection, SSL and TLS are supported. Please check the manual of your email provider for more details.' => 
-		'SSL und TLS werden für sichere Verbindungen unterstützt. Nähere Informationen hierzu erhalten Sie bei Ihrem E-Mail-Provider.',
+		'Za sigurnu vezu, SSL i TLS su podržani. ************************.',
 
 		'Forbidden' => 
-		'Verboten',
+		'Zabranjeno',
 
 		'Forbidden Parameter' => 
-		'Ausschlussparameter',
+		'Zabranjeni Parametar',
 
 		'Formatting' => 
-		'Formatierung',
+		'Formatiranje',
 
 		'Fri' => 
-		'Fr',
+		'Pet',
 
 		'Friday' => 
-		'Freitag',
+		'Petak',
 
 		'From Email Address' => 
-		'Absenderadresse',
+		'Adresa pošiljatelja',
 
 		'From Name' => 
-		'Absender',
+		'Pošiljatelj',
 
 		'From extensions' => 
-		'Als Erweiterung',
+		'Iz extenzija',
 
 		'Gateway' => 
 		'Gateway',
 
 		'General' => 
-		'Allgemein',
+		'Generalno',
 
 		'Go to page …' => 
-		'Gehe zu Seite …',
+		'Idi na stranicu …',
 
 		'Group By' => 
-		'Gruppieren nach',
+		'Grupiraj po',
 
 		'Grouping' => 
-		'Gruppierung',
+		'Grupiranje',
 
 		'Handle' => 
-		'Bezeichner',
+		'Identifikator (handle)',
 
 		'Header fields can only contain strings' => 
-		'Header-Felder können nur Zeichenketten beinhalten',
+		'Header polja mogu sadržavati samo stringove',
 
 		'Hi %s,' => 
 		'Hi %s,',
@@ -733,1075 +732,1078 @@
 		'ID',
 
 		'If it was provided by an Extension, ensure that it is installed, and enabled.' => 
-		'Falls die Datenquelle von einer Erweiterung zur Verfügung gestellt wurde, stellen Sie sicher, dass diese aktiviert ist.',
+		'Ako je provided od extenzije, budi siguran da je instaliran, i omogućen.',
 
 		'Ignore?' => 
-		'Ignorieren?',
+		'Ignoriraj?',
 
 		'Included Elements' => 
-		'Eingebundene Elemente',
+		'Ugrađeni Elementi',
 
 		'Install' => 
-		'installieren',
+		'Instaliraj',
 
 		'Invalid URL' => 
-		'Ungültige URL',
+		'Nevaljani URL',
 
 		'Invalid element name. Must be valid %s.' => 
-		'Ungültiger Elementname. Es muss valides %s sein.',
+		'Nevaljano ime elementa. Mora biti valjano %s.',
 
 		'Invalid timezone %s' => 
-		'Ungültige Zeitzone %s',
+		'Vremenska zona %s nije valjana',
 
 		'It currently does not work with ‘Allow Multiple’' => 
-		'Dies funktioniert derzeit nicht mit mehreren Einträgen gleichzeitig',
+		'Ova funkcija trenutno ne radi sa ‘Dopusti mnogostruke’',
 
 		'It will expire in 2 hours. If you did not ask for a new password, please disregard this email.' => 
-		'Es wird in zwei Stunden ablaufen. Falls Sie kein neues Passwort angefordert haben, ignorieren Sie bitte diese Nachricht.',
+		'Isteći će za 2 sata. Ako nisi tražio novu lozinku samo zanemari ovaj email.',
 
 		'JSON not formatted correctly' => 
-		'JSON nicht richtig formatiert',
+		'JSON nije ispravno formatiran',
 
 		'Jan' => 
-		'Jan',
+		'Sij',
 
 		'January' => 
-		'Januar',
+		'Siječanj',
 
 		'Jul' => 
-		'Jul',
+		'Srp',
 
 		'July' => 
-		'Juli',
+		'Srpanj',
 
 		'Jun' => 
-		'Jun',
+		'Lip',
 
 		'June' => 
-		'Juni',
+		'Lipanj',
 
 		'Label' => 
-		'Bezeichnung',
+		'Naziv',
 
 		'Language' => 
-		'Sprache',
+		'Jezik',
 
 		'Last' => 
-		'Letzte',
+		'Posljednji',
 
 		'Last Name' => 
-		'Nachname',
+		'Prezime',
 
 		'Last Seen' => 
-		'Letzter Besuch',
+		'Posljednji put viđen',
 
 		'Last modified on %s' => 
-		'Zuletzt verändert am %s',
+		'Posljednji put uređeno %s',
 
 		'Last name is required' => 
-		'Der Nachname ist eine Pflichtangabe',
+		'Prezime je traženo',
 
 		'Leave password fields blank to keep the current password' => 
-		'Lassen Sie das Passwortfeld leer, um das derzeitige Passwort zu behalten',
+		'Ostavi polja lozinki prazna kako bi zadržao trenutnu lozinku',
 
 		'Leaving these fields empty will always execute the data source.' => 
-		'Wenn diese Felder leer sind, wird die Datenquelle immer ausgeführt.',
+		'Ako su ova polja prazna, izvor podataka će se uvijek izvršavati.',
 
 		'Linked to %s in' => 
-		'Verknüpft mit %s in',
+		'Povezano sa %s u',
 
 		'Links' => 
-		'Links',
+		'Linkovi',
 
 		'Links in %s' => 
-		'Verknüpft in %s',
+		'Povezuje sa %s',
 
 		'Log out' => 
-		'Abmelden',
+		'Odjava',
 
 		'Login' => 
-		'Anmeldung',
+		'Prijava',
 
 		'Login Details' => 
-		'Anmeldedaten',
+		'Detalji za prijavu',
 
 		'Main content' => 
-		'Hauptbereich',
+		'Glavni sadržaj',
 
 		'Malformed UTF-8 characters, possibly incorrectly encoded.' => 
-		'Falsche UTF-8-Zeichen, wahrscheinlich fehlerhaft kodiert.',
+		'Neispravno oblikovani UTF-8-karakteri, vjerojatno netočno enkodirani.',
 
 		'Manager' => 
 		'Manager',
 
 		'Mar' => 
-		'Mrz',
+		'Ožu',
 
 		'March' => 
-		'März',
+		'Ožujak',
 
 		'Maximum stack depth exceeded.' => 
-		'Die maximale Stapeltiefe wurde überschritten.',
+		'Maximum stack depth exceeded.',
 
 		'May' => 
-		'Mai',
+		'Svibanj',
 
 		'Message' => 
-		'Nachricht',
+		'Poruka',
 
 		'Missing default namespace definition.' => 
-		'Standardnamensraumdefinition fehlt.',
+		'Missing default namespace definicija.',
 
 		'Mon' => 
-		'Mo',
+		'Pon',
 
 		'Monday' => 
-		'Montag',
+		'Ponedjeljak',
 
 		'Must be a valid number or parameter' => 
-		'Muss eine gültige Zahl oder ein gültiger Parameter sein',
+		'Mora biti valjani broj ili parametar',
 
 		'Must call EHLO (or HELO) before calling AUTH' => 
-		'EHLO (oder HELO) muss vor AUTH aufgerufen werden',
+		'Must call EHLO (ili HELO) prije calling AUTH',
 
 		'Must call EHLO (or HELO) before calling MAIL' => 
-		'EHLO (oder HELO) muss vor MAIL aufgerufen werden',
+		'Must call EHLO (ili HELO) prije calling MAIL.',
 
 		'Must call MAIL before calling RCPT' => 
-		'MAIL muss vor RCPT aufgerufen werden',
+		'Must call MAIL prije calling RCPT',
 
 		'Must call RCPT before calling DATA' => 
-		'RCPT muss vor DATA aufgerufen werden',
+		'Must call RCPT prije calling DATA',
 
 		'MySQL Error (%1$s): %2$s in query: %3$s' => 
-		'MySQL-Fehler (%1$s): %2$s in Abfrage: %3$s',
+		'MySQL Greška (%1$s): %2$s in query: %3$s',
 
 		'Name' => 
-		'Name',
+		'Ime',
 
 		'Navigation' => 
-		'Navigation',
+		'Navigacija',
 
 		'Navigation Group' => 
-		'Navigationsgruppe',
+		'Navigacijska Grupa',
 
 		'New Field' => 
-		'Neues Feld',
+		'Novo polje',
 
 		'New Password' => 
-		'Neues Passwort',
+		'Nova Lozinka',
 
 		'New Symphony Account Password' => 
-		'Neues Passwort für Ihren Symphony-Zugang',
+		'Lozinka za novi Symphony račun',
 
 		'Next &rarr;' => 
-		'Nächste &rarr;',
+		'Sljedeći &rarr;',
 
 		'No' => 
-		'Nein',
+		'Ne',
 
 		'No Suggestions' => 
-		'Keine Vorschläge',
+		'Nema sugestija',
 
 		'No attachments or body text was set. Can not send empty email.' => 
-		'Weder Anhang noch Fließtext festgelegt. Leere E-Mails können nicht versendet werden.',
+		'No attachments ili body text was set. Ne mogu poslati prazan email.',
 
 		'No connection has been established to %s' => 
-		'Es konnte keine Verbindung mit %s hergestellt werden',
+		'Nije uspostavljena veza sa %s',
 
 		'No encryption' => 
-		'Keine Verschlüsselung',
+		'Bez enkripcije',
 
 		'No errors.' => 
-		'Keine Fehler.',
+		'Nema grešaka.',
 
 		'No filters applied yet.' => 
-		'Keine angelegten Filter.',
+		'Nijedan filtar još nije primijenjen.',
 
 		'No links in %s' => 
-		'Keine Verknüpfungen für %s',
+		'Nema linkova u %s',
 
 		'No password was entered.' => 
-		'Es wurde keine Passwort eingegeben',
+		'Lozinka nije unesena',
 
 		'No records found.' => 
-		'Keine Einträge gefunden.',
+		'Podaci nisu nađeni.',
 
 		'No suitable XSLT processor was found.' => 
-		'Es konnte kein passender XSLT-Prozessor gefunden werden.',
+		'Nije nađen prikladni XSLT-Procesor.',
 
 		'No suitable engine object found' => 
-		'Es konnte kein passendes Engine-Objekt gefunden werden.',
+		'Nije pronađen prikladni engine objekt.',
 
 		'No username was entered.' => 
-		'Es wurde kein Benutzername eingegeben.',
+		'Korisničko ime nije uneseno.',
 
 		'None' => 
-		'Keine Angaben',
+		'Nijedan',
 
 		'None found.' => 
-		'Keine Einträge.',
+		'Ništa nije nađeno.',
 
 		'Not installed' => 
-		'Nicht installiert',
+		'Nije instalirano',
 
 		'Notice that it is possible to get mixtures of success and failure messages when using the ‘Allow Multiple’ option.' => 
-		'Beachten Sie, das die Verwendungen der Option „Mehrfachauswahl“ zu einer Mischungaus Erfolgs- und Fehlermeldungen führen kann.',
+		'Notice da je moguće to get mixtures of success and failure messages prilikom korištenje opcije Dopusti Mnogostruke’.',
 
 		'Nov' => 
-		'Nov',
+		'Stu',
 
 		'November' => 
-		'November',
+		'Studeni',
 
 		'Number of default rows' => 
-		'Anzahl der Standardreihen',
+		'Broj defaultnih redova',
 
 		'Oct' => 
-		'Okt',
+		'Lis',
 
 		'October' => 
-		'Oktober',
+		'Listopad',
 
 		'Often the cause of this error is a misnamed extension folder. You can try renaming %s to %s, or you can uninstall the extension to continue.' => 
-		'Der Grund ist oft ein Fehler bei der Benennung des Verzeichnisses der Erweiterung. Sie können ',
+		'Često je razlog ove greške pogrešno imenovan folder extenzije. Možeš pokušati preimenovati %s u %s, ili možeš deinstalirati extenziju kako bi nastavio. ',
 
 		'Old Password' => 
-		'Altes Passwort',
+		'Stara lozinka',
 
 		'One or more pages could not be deleted.' => 
-		'Eine oder mehrere Seiten konnten nicht gelöscht werden.',
+		'Jedna ili više stranica nije moglo biti obrisano.',
 
 		'Only one call to MAIL may be made at a time.' => 
-		'Nur ein MAIL-Aufruf kann zeitgleich durchgeführt werden.',
+		'Only one call to MAIL may be made at a time.',
 
 		'Optional' => 
-		'optional',
+		'neobavezno',
 
 		'Options' => 
-		'Optionen',
+		'Opcije',
 
 		'Page %1$s of %2$s' => 
-		'Seite %1$s von %2$s',
+		'Stranica %1$s od %2$s',
 
 		'Page ID' => 
-		'Seiten-ID',
+		'ID Sajta',
 
 		'Page Not Found' => 
-		'Seite konnte nicht gefunden werden',
+		'Stranica nije nađena',
 
 		'Page Number' => 
-		'Seitenzahl',
+		'Broj stranice',
 
 		'Page Resources' => 
-		'Seitenbasis',
+		'Resursi stranice',
 
 		'Page Settings' => 
-		'Seiteneinstellungen',
+		'Postavke Stranice',
 
 		'Page Template could not be written to disk.' => 
-		'Seitenvorlage konnte nicht gespeichert werden.',
+		'Template stranice nije mogao biti zapisan na disk.',
 
 		'Page Type' => 
-		'Seitentyp',
+		'Tip stranice',
 
 		'Page could not be deleted because it does not exist.' => 
-		'Die Seite konnten nicht gelöscht werden, weil sie nicht existiert.',
+		'Stranica nije mogla biti obrisana jer niti ne postoji. LOL wut?.',
 
 		'Page could not be deleted because it has children.' => 
-		'Die Seite konnte nicht gelöscht werden, weil sie Unterseiten hat.',
+		'Stranica nije mogla biti obrisana jer ima djecu [ti okrutni čovječe].',
 
 		'Page created at %s.' => 
-		'Seite um %s erstellt.',
+		'Stranica je stvorena u %s.',
 
 		'Page updated at %s.' => 
-		'Seite um %s aktualisiert.',
+		'Stranica je ažurirana u %s.',
 
 		'Pages' => 
-		'Seiten',
+		'Stranice',
 
 		'Pagination' => 
-		'Paginierung',
+		'Paginacija',
 
 		'Parameters' => 
-		'Parameter',
+		'Parametri',
 
 		'Parent Page' => 
-		'Übergeordnete Seite',
+		'Roditeljska Stranica',
 
 		'Password' => 
-		'Passwort',
+		'Lozinka',
 
 		'Password is required' => 
-		'Das Passwort ist eine Pflichtangabe',
+		'Lozinka je tražena',
 
 		'Passwords did not match' => 
-		'Passworteingabe stimmte nicht überein',
+		'Lozinke se ne slažu',
 
 		'Placement' => 
-		'Platzierung',
+		'Stavi u',
 
 		'Please check permissions on %s' => 
-		'Bitte überprüfen Sie die Zugriffsrechte für %s',
+		'Molim provjeri dopuštenja za %s',
 
 		'Please check permissions on %s.' => 
-		'Bitte überprüfen Sie die Zugriffsrechte für %s.',
+		'Molimo provjerite dopuštenja za %s.',
 
 		'Please confirm changes to this author with your password.' => 
-		'Bitte bestätigen Sie Änderungen an diesem Nutzer mit Ihrem Passwort.',
+		'Molimo potvrdite izmjene ovog autora sa svojom lozinkom.',
 
 		'Please ensure handle contains at least one Latin-based character.' => 
-		'Bitte stellen Sie sicher, dass der Bezeichner mindestens ein lateinisches Schriftzeichen enthält.',
+		'Molimo budite sigurni da handle sadrži bar jedno latinično bazirano slovo.',
 
 		'Please ensure name contains at least one Latin-based character.' => 
-		'Bitte stellen Sie sicher, dass der Name mindestens ein lateinisches Schriftzeichen enthält.',
+		'Molimo budite sigurni da ime sadrži bar jedno latinično slovo.',
 
 		'Please go back and try again.' => 
-		'Bitte gehen Sie zurück und versuchen Sie es erneut.',
+		'Molim te, vrati se natrag i pokušaj ponovo.',
 
 		'Please login to view this page.' => 
-		'Bitte melden Sie sich an, um diese Seite zu sehen.',
+		'Ulogiraj se kako bi vidio ovu stranicu.',
 
 		'Please provide your own password to make changes to this author.' => 
-		'Bitte geben Sie Ihr eigenes Passwort ein, um diesen Autor zu bearbeiten.',
+		'Molimo unesi svoju lozinku kako bi učinio izmjene ovom autoru.',
 
 		'Please remove it from your fields prior to uninstalling or disabling.' => 
-		'Bitte entfernen Sie ihn von Ihren Felder bevor Sie es deinstallieren oder deaktivieren.',
+		'Molimo, makni sa svojih polja prije deinstalacije ili onemogućavanja.',
 
 		'Please remove it from your pages prior to uninstalling or disabling.' => 
-		'Bitte entfernen Sie sie von Ihren Seiten bevor Sie es deinstallieren oder deaktivieren.',
+		'Molimo, makni sa svojih stranica prije deinstalacije ili onemogućavanja.',
 
 		'Please remove it from your sections prior to uninstalling or disabling.' => 
-		'Bitte entfernen Sie es von Ihren Bereichen bevor Sie es deinstallieren oder deaktivieren.',
+		'Molimo, makni sa svojih sekcija prije deinstalacije ili onemogućavanja.',
 
 		'Please reset your password' => 
-		'Bitte setzen Sie Ihr Passwort zurück',
+		'Molim te, resetiraj svoju lozinku',
 
 		'Port' => 
 		'Port',
 
 		'Preferences' => 
-		'Einstellungen',
+		'Postavke',
 
 		'Preferences saved.' => 
-		'Die Einstellungen wurden gespeichert.',
+		'Postavke su sačuvane.',
+
+		'Publish' => 
+		'Objavi',
 
 		'Recipient address can not contain carriage return or newlines.' => 
-		'Die Empfängeradresse darf keine Zeilenumbrüche und Absätze enthalten.',
+		'Adresa primatelja ne može sadržavati simbol za novi red niti novi red.',
 
 		'Recipient email address cannot be empty.' => 
-		'Die Empfängeradresse darf nicht leer sein.',
+		'Primateljeva email adresa ne može biti prazna.',
 
 		'Recipient not found' => 
-		'Empfänger nicht gefunden',
+		'Primatelj nije nađen',
 
 		'Remove File' => 
-		'Datei entfernen',
+		'Makni fajl',
 
 		'Remove field' => 
-		'Feld löschen',
+		'Makni polje',
 
 		'Remove filter' => 
-		'Filter entfernen',
+		'Makni filtar',
 
 		'Remove installer?' => 
-		'Installationsskript entfernen?',
+		'Da maknem instalacijski folder?',
 
 		'Remove item' => 
-		'Entfernen',
+		'Makni stavku',
 
 		'Rename folder' => 
-		'Verzeichnis umbenennen',
+		'Preimenuj folder',
 
 		'Reordering was unsuccessful.' => 
-		'Das Neusortieren ist fehlgeschlagen.',
+		'Promjena redosljeda nije uspjela.',
 
 		'Reply-To Email Address can not contain carriage return or newlines.' => 
-		'Die Antwortadresse darf keine Zeilenumbrüche oder Leerzeilen enthalten.',
+		'Odgovori Email Adresa ne može sadržavati simbol za novi red niti nove redove.',
 
 		'Reply-To Name can not contain carriage return or newlines.' => 
-		'Der Antwortname darf keine Zeilenumbrüche oder Leerzeilen enthalten.',
+		'Odgovori- Ime ne može sadržavati simbol za novi red niti nove redove.',
 
 		'Request timed out. %d second limit reached.' => 
-		'Zeitüberschreitung bei Anfrage. %d-Sekunden-Limit erreicht.',
+		'Zahtjev je istekao. Limit od %d sekundi je dostignut.',
 
 		'Request was rejected for having an invalid cross-site request forgery token.' => 
-		'Die Anfrage wurde aufgrund eines ungültigen Cross-Site-Request-Forgery-Tokens abgewiesen.',
+		'Zahtjev je odbijen zbog having an invalid cross site request forgery token ****.',
 
 		'Required Parameter' => 
-		'Pflichtparameter',
+		'Traženi parametar',
 
 		'Retrieve password?' => 
-		'Passwort anfordern?',
+		'Vrati lozinku?',
 
 		'SMTP' => 
 		'SMTP',
 
 		'SSL encryption' => 
-		'SSL-Verschlüsselung',
+		'SSL-enkripcija',
 
 		'Sat' => 
 		'Sa',
 
 		'Saturday' => 
-		'Samstag',
+		'Subota',
 
 		'Save Changes' => 
-		'Änderungen speichern',
+		'Sačuvaj promjene',
 
 		'Search for {$item}' => 
-		'Suche nach {$item}',
+		'Traži {$item}',
 
 		'Section created at %s.' => 
-		'Bereich um %s erstellt.',
+		'Sekcija je stvorena u %s.',
 
 		'Section updated at %s.' => 
-		'Bereich um %s aktualisiert.',
+		'Sekcija je ažurirana u %s.',
 
 		'Sections' => 
-		'Bereiche',
+		'Sekcije',
 
 		'Sections Index' => 
-		'Bereichsübersicht',
+		'Index Sekcija',
 
 		'Select ' => 
-		'Wähle ',
+		'Odaberi ',
 
 		'Select %s Extension' => 
-		'%s-Erweiterung auswählen',
+		'Odaberi %s extenziju',
 
 		'Select Author %s' => 
-		'Autor $s auswählen',
+		'Odaberi $s autora',
 
 		'Select Box' => 
-		'Auswahlfeld',
+		'Select Box',
 
 		'Select Entry %d' => 
-		'Eintrag %d auswählen',
+		'Odaberi %d Unos',
 
 		'Select Page %s' => 
-		'Seite %s auswählen',
+		'Odaberi stranicu %s',
 
 		'Select Section %s' => 
-		'Bereich $s auswählen',
+		'Odaberi $s sekciju',
 
 		'Send Email' => 
-		'E-Mail verschicken',
+		'Pošalji e-mail',
 
 		'Send Notification Email' => 
-		'Benachrichtigungs-E-Mail schicken',
+		'Pošalji e-mail sa obaviješću',
 
 		'Sender Email Address can not contain carriage return or newlines.' => 
-		'Die Absenderadresse darf keinen Zeilenumbruch oder Leerzeilen enthalten.',
+		'Email adresa pošiljatelja ne može sadržavati simbol za novi red niti nove redove.',
 
 		'Sender Name can not contain carriage return or newlines.' => 
-		'Der Absender darf keine Zeilenumbrüche enthalten.',
+		'Ime pošiljaoca ne može sadržavati simbol za novi red niti nove redove.',
 
 		'Sender email address cannot be empty.' => 
-		'Die Absenderadresse darf nicht leer sein.',
+		'E-mail adresa pošiljaoca ne može biti prazna.',
 
 		'Sendmail (default)' => 
 		'Sendmail (Standard)',
 
 		'Sep' => 
-		'Sep',
+		'Ruj',
 
 		'September' => 
-		'September',
+		'Rujan',
 
 		'Set %s' => 
-		'Setze %s',
+		'Set %s',
 
 		'Set navigation group' => 
-		'Navigationsgruppe festlegen',
+		'Postavi navigacijsku grupu',
 
 		'Settings for field %s could not be found in table tbl_fields_%s.' => 
-		'Die Einstellungen für das Feld %s konnten nicht in der Tabelle tbl_fields_%s gefunden werden.',
+		'Postavke za polje %s ne mogu biti nađene u tablici tbl_fields_%s.',
 
 		'Show Associations' => 
-		'Zeige Verknüpfungen',
+		'Pokaži Asocijacije',
 
 		'Show debug view' => 
-		'Debug-Ansicht öffnen',
+		'Pokaži (debug) pregled za otklanjanje grešaka',
 
 		'Show debug view for %s' => 
-		'Debug-Ansicht für %s öffnen',
+		'Pokaži debug pregled za %s ',
 
 		'Show line %d in debug view' => 
-		'Zeile %s in der Debug-Ansicht anzeigen',
+		'Pokaži liniju %s u debug pregledu',
 
 		'Show more entries' => 
-		'Zeige mehr Einträge',
+		'Pokaži više unosa',
 
 		'Sidebar' => 
-		'Seitenleiste',
+		'Sidebar',
 
 		'Some SMTP connections require authentication. If that is the case, enter the username/password combination below.' => 
-		'Einige SMTP-Verbindungen erfordern eine Autorisierung. Geben Sie in diesem Fall hier die Benutzer-Passwort-Kombination an.',
+		'Neke SMTP veze traže autentifikaciju. Ako je to slučaj, unesi korisničko ime/lozinku ispod.',
 
 		'Some errors were encountered while attempting to save.' => 
-		'Beim Versuch zu speichern sind Fehler aufgetreten.',
+		'Neke greške su se dogodile prilikom pokušaja spremanja.',
 
 		'Sorry, but Symphony was unable to rename the folder. You can try renaming %s to %s yourself, or you can uninstall the extension to continue.' => 
-		'Leider war Symphony nicht in der Lage das Verzeichnis umzubenennen. Sie können versuchen %s manuell in %s umzubenennen oder Sie deinstallieren die Erweiterung um fortzufahren.',
+		'Oprosti, ali Symphony nije bila u mogućnosti promijeniti ime foldera.  Možeš pokušati promijeniti ime %s ručno u %s ili možeš deinstalirati extenziju kako bi nastavio.',
 
 		'Sort By' => 
-		'Sortieren nach',
+		'Sortiraj po',
 
 		'Sort Order' => 
-		'Sortierreihenfolge',
+		'Red sortiranja',
 
 		'Sort by %1$s %2$s' => 
-		'Sortiere nach %1$s %2$s',
+		'Sortiraj po %1$s %2$s',
 
 		'Sorting' => 
-		'Sortierung',
+		'Sortiranje',
 
 		'Source' => 
-		'Quelle',
+		'Izvor',
 
 		'Static Values' => 
-		'Statische Werte',
+		'Statičke Vrijednosti',
 
 		'Static XML' => 
-		'Statisches XML',
+		'Statički XML',
 
 		'Status' => 
 		'Status',
 
 		'Status unavailable' => 
-		'Status nicht verfügbar',
+		'Status nije dostupan',
 
 		'Submit' => 
-		'Abschicken',
+		'Pošalji',
 
 		'Success and Failure XML Examples' => 
-		'Erfolgs- und Fehlerbeispiele',
+		'Uspješni i Neuspješni XML primjeri',
 
 		'Suggestion List' => 
-		'Vorschlagsliste',
+		'Lista Sugestija',
 
 		'Sun' => 
-		'So',
+		'Ned',
 
 		'Sunday' => 
-		'Sonntag',
+		'Nedjelja',
 
 		'Symphony' => 
 		'Symphony',
 
 		'Symphony Database Error' => 
-		'Symphony-Datenbankfehler',
+		'Symphony greška u bazi podataka',
 
 		'Symphony Extension Missing Error' => 
-		'Symphony-Erweiterung nicht gefunden',
+		'Symphony greška - Nedostaje Extenzija',
 
 		'Syntax error, malformed JSON.' => 
-		'Syntaxfehler, fehlerhaftes JSON',
+		'Greška u sintaxi, malformiran* JSON',
 
 		'System' => 
-		'System',
+		'Sustav',
 
 		'System Creation Date' => 
-		'Systemerstellungdatum',
+		'Datum Stvaranja Sustava',
 
 		'System Default' => 
-		'Systemstandard',
+		'Standardni',
 
 		'System ID' => 
 		'System-ID',
 
 		'System Language' => 
-		'Systemsprache',
+		'Jezik Sustava',
 
 		'System Modification Date' => 
-		'Systemveränderungsdatum',
+		'Datum Modifikacije Sustava',
 
 		'TLS encryption' => 
-		'TLS-Verschlüsselung',
+		'TLS-enkripcija',
 
 		'Tag List' => 
-		'Tag-Liste',
+		'Tag-Lista',
 
 		'Take me to the login page' => 
-		'Weiter zur Anmeldeseite',
+		'Odvedi me do stranice za prijavu',
 
 		'Target' => 
-		'Ziel',
+		'Meta',
 
 		'Template' => 
-		'Vorlage',
+		'Templejt*',
 
 		'Text Formatter' => 
-		'Textformatierung',
+		'Formater Texta',
 
 		'Text Input' => 
-		'Eingabefeld',
+		'Unos texta',
 
 		'Textarea' => 
-		'Textfeld',
+		'Područje za text',
 
 		'The %1$s file for the %2$s extension is not valid XML: %3$s' => 
-		'Die Datei %1$s für die Erweiterung %2$s enthält kein valides XML: %3$s',
+		'Datei %1$s za extenziju %2$s nije valjani XML: %3$s',
 
 		'The %1$s gateway does not support the use of %2$s' => 
-		'Das %1$s-Gateway überstützt die Verwednung von %2$s nicht',
+		'%1$s gateway ne podržava upotrebu %2$s',
 
 		'The %s class failed to acquire a lock, check that %s exists and is writable.' => 
-		'Die Klasse %s konnte keine Sperre einrichten, überprüfen Sie, ob %s existiert und beschreibbar ist.',
+		'Klasse %s konnte keine Sperre einrichten, überprüfen Sie, ob %s existiert und beschreibbar ist.',
 
 		'The Data Source ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
-		'Die Datenquelle ‚%s‘, die von der Erweiterung ‚%s‘ bereitgestellt wird, ist zur Zeit in Verwendung.',
+		'Izvor podataka ‚%s‘, provided by the extenzijom ‚%s‘ je trenutno u upotrebi.',
 
 		'The Entry, %s, could not be found.' => 
-		'Der Eintrag %s konnte nicht gefunden werden.',
+		'Unos %s nije nađen.',
 
 		'The Envelope From Address can not contain carriage return or newlines.' => 
-		'Die Absenderadresse darf keine Zeilenumbrüche und Absätze enthalten.',
+		'Omotnica od Address* ne može sadržavati simbol za novi red niti nove linije.',
 
 		'The Event ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
-		'Das Ereignis ‚%s‘, das von der Erweiterung ‚%s‘ bereitgestellt wird, ist zur Zeit in Verwendung.',
+		'Događaj ‚%s‘, provided by Extenzijom ‚%s‘ je trenutno u upotrebi.',
 
 		'The Section, %s, associated with the Data source, %s, could not be found.' => 
-		'Die mit dem Bereich %s verknüpfte Datenquelle %s konnte nicht gefunden werden.',
+		'Sekcija %s asocirana sa Izvorom podataka %s ne može biti nađena.',
 
 		'The Section, %s, could not be found.' => 
-		'Der Bereich %s konnte nicht gefunden werden.',
+		'Sekcija %s nije nađena.',
 
 		'The Symphony Team' => 
-		'Ihr Symphony-Team',
+		'Symphony Tim',
 
 		'The Symphony configuration file, %s, is not writable. The sort order cannot be modified.' => 
-		'Die Symphony-Konfigurationsdatei, %s, ist nicht schreibbar. Die Sortierreihenfolge kann nicht verändert werden.',
+		'Symphony konfiguracijski fajl %s, nije schreibbar. The sort order ne može biti modificiran.',
 
 		'The Symphony configuration file, %s, is not writable. You will not be able to save changes to preferences.' => 
-		'Die Symphony-Konfigurationsdatei, %s, ist nicht lesbar. Die Änderungen der Voreinstellungen werden nicht gespeichert.',
+		'Symphony konfiguracijski fajl, %s, nije writable. Nećeš moći sačuvati izmjene u postavkama.',
 
 		'The Text Formatter ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
-		'Der Textformatierer ‚%s‘, der von der Erweiterung ‚%s‘ bereitgestellt wird, ist zur Zeit in Verwendung.',
+		'Formater texta ‚%s‘, koji pruža extenzija ‚%s‘ je trenutno u upotrebi.',
 
 		'The author profile you requested does not exist.' => 
-		'Das von Ihnen aufgerufene Benutzerprofil existiert nicht.',
+		'Traženi profil autora ne postoji.',
 
 		'The content of the file `%s` could not be loaded.' => 
-		'Der Inhalt der Daten `%s` konnte nicht geladen werden.',
+		'Sadržaj fajla `%s` nije mogao biti učitan.',
 
 		'The data will only be available on the selected pages.' => 
-		'Die Daten werden nur auf den ausgewählten Seiten verfügbar sein.',
+		'Podaci će biti dostupni samo na odabranim stranicama.',
 
 		'The date specified in ‘%s’ is invalid.' => 
-		'Das angegebene Datum für ‚%s‘ ist ungültig.',
+		'Datum specificiran u ‚%s‘ nije valjan.',
 
 		'The destination directory is not writable.' => 
-		'Der Zielordner ist nicht schreibbar.',
+		'Destinacijski direktorij nije schreibbar.',
 
 		'The destination directory, %s, does not exist.' => 
-		'Der Zielordner %s existiert nicht.',
+		'Destinacijski direktorij %s ne postoji.',
 
 		'The email address ‘%s’ is invalid.' => 
-		'Die E-Mail-Adresse „%s“ ist ungültig',
+		'E-mail adresa „%s“ nije valjana',
 
 		'The event will only be available on the selected pages.' => 
-		'Das Ergeinis wird nur auf den ausgewählten Seiten verfügbar sein.',
+		'Događaj će biti dostupan samo na odabranim stranicama.',
 
 		'The field ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
-		'Das Feld ‚%s‘, das von der Erweiterung ‚%s‘ bereitgestellt wird, ist zur Zeit in Verwendung.',
+		'Polje ‚%s‘, koje pruža extenzija ‚%s‘, je trenutno u upotrebi.',
 
 		'The field “{$title}” ({$type}) has been removed.' => 
-		'Das Feld „{$title}“ ({$type}) wurde entfernt.',
+		'Polje „{$title}“ ({$type}) je maknuto.',
 
 		'The file uploaded is no longer available. Please check that it exists, and is readable.' => 
-		'Die hochgeladene Datei ist nicht länger verfügbar. Bitte überprüfen Sie, ob sie noch existiert und lesbar ist.',
+		'Uploadan fajl više nije dostupan. Molimo provjerite postoji li i da li se može čitati.',
 
 		'The following are the recognised fields:' => 
-		'Folgende Felder werden erkannt:',
+		'Sljedeća polja su prepoznata:',
 
 		'The following error was returned:' => 
-		'Folgender Fehler wurde zurückgegeben:',
+		'Sljedeća greška je vraćena:',
 
 		'The following is an example of what is returned if any options return an error:' => 
-		'Das folgende Beispiel zeigt den Rückgabewert, wenn eine der Filteroptionen einen Fehler zurückgibt:',
+		'Sljedeće je primjer onoga što se vraća ako ijedna od opcija vrati pogrešku:',
 
 		'The login details provided are incorrect.' => 
-		'Die verwendeten Anmeldedaten sind falsch.',
+		'Podaci za prijavu nisu točni.',
 
 		'The page you requested does not exist.' => 
-		'Die aufgerufene Seite existiert nicht.',
+		'Stranica koju zahtjevaš ne postoji.',
 
 		'The page you requested, %s, does not exist.' => 
-		'Die aufgerufene Seite, %s, existiert nicht.',
+		'Tražena stranica %s, ne postoji.',
 
 		'The selected language, %s, could not be found. Using default English dictionary instead.' => 
-		'Die ausgewählte Sprache %s konnte nicht gefunden werden. Verwende das englische Standartwörterbuch.',
+		'Odabrani jezik %s nije nađen. Koristim defaultni engleski rječnik umjesto.',
 
 		'There is already a field of type %s. There can only be one per section.' => 
-		'Ein Feld vom Typ %s existiert bereits. Pro Bereich darf es nur eines geben.',
+		'Već postoji polje tipa %s. Može postojati samo jedno po sekciji.',
 
 		'There was a problem whilst attempting to establish a database connection. Please check all connection information is correct.' => 
-		'Beim Versuch eine Datenbankverbindung herzustellen ist ein Problem aufgetreten. Bitte überprüfen Sie, ob die Verbindungsinformationen korrekt sind.',
+		'Došlo je do problema dok se uspostavljala veza sa bazom podataka.. Molimo provjerite jesu li sve informacije za uspostavu veze točne.',
 
 		'There was an error while trying to upload the file %1$s to the target directory %2$s.' => 
-		'Bei Hochladen der Datei %1$s in den Zielordner %2§s ist ein Fehler aufgetreten.',
+		'Došlo je do greške prilikom pokušaja uploada fajla %1$s u odabrani direktorij %2§s.',
 
 		'There were some problems while attempting to save. Please check below for problem fields.' => 
-		'Beim Speichern sind einige Fehler aufgetreten. Bitte überprüfen Sie die betroffenen Felder.',
+		'Došlo je do nekih problema dok se pokušavalo sačuvati. Provjerite polja ispod kako bi vidjeli u čemu je problem',
 
 		'This Symphony instance has not been set up for emailing, %s' => 
-		'Diese Symphony-Instanz wurden nicht für den E-Mail-Versand eingerichtet, %s',
+		'Ova instancija Symphony nije set up za mailanje, %s',
 
 		'This document is not well formed.' => 
-		'Dieses Dokument ist nicht wohlgeformt.',
+		'Ovaj dokument nije dobro formiran.',
 
 		'This error occurred whilst attempting to resolve the 404 page for the original request.' => 
-		'Der Fehler trat bei Versuch auf, die 404-Seite für die Ursprungsanfrage aufzulösen.',
+		'Ova greška se dogodila prilikom pokušaja to resolve 404 stranice za original request.',
 
 		'This event has been customised and cannot be viewed from Symphony.' => 
-		'Dieses Ereignis wurde angepasst und kann nicht innerhalb Symphonys angezeigt werden.',
+		'Ovaj Događaj je bio kustomiziran i ne može biti viđen iz Symphony.',
 
 		'This gateway can not be found. Can not save as default.' => 
-		'Das Gateway konnte nicht gefunden und als Standard gespeichert werden.',
+		'Ovaj gateway ne može biti nađen. Ne mogu sačuvati kao standardno.',
 
 		'This is a required field' => 
-		'Dieses Feld ist verpflichtend.',
+		'Ovo je traženo polje.',
 
 		'This is a required field.' => 
-		'Dies ist ein Pflichtfeld.',
+		'Ovo je traženo polje.',
 
 		'This is an example of the form markup you can use on your frontend:' => 
-		'Dies ist ein Beispiel, dass Sie für Ihr Frontend-Formular nutzen können:',
+		'Ovo je primjer of the form markup koji možeš koristiti u svom frontendu:',
 
 		'This page could not be rendered due to the following XSLT processing errors:' => 
-		'Aufgrund nachfolgender XSLT-Ausführungsfehler konnte die Seite nicht ausgegeben werden:',
+		'Ova stranica nije mogla biti prikazana zbog sljedećih XSLT processing grešaka:',
 
 		'This request exceeds the maximum allowed request size of %s specified by your host.' => 
-		'Diese Anfrage übersteigt die von Ihrem Host maximal erlaubte Größe von %s.',
+		'Ovaj zahtjev prelazi maximalno dopuštenu veličinu %s specificiranu tvojim hostingom.',
 
 		'Thu' => 
-		'Do',
+		'Čet',
 
 		'Thursday' => 
-		'Donnerstag',
+		'Četvrtak',
 
 		'To edit an existing entry, include the entry ID value of the entry in the form. This is best as a hidden field like so:' => 
-		'Um einen existierenden Eintrag zu bearbeiten, müssen Sie die Eintrags-ID im Formular einbinden. Dies geht am besten mit einem versteckten Textfeld:',
+		'Kako bi uredio postojeći unos, uklući ID vrijednost unosa u formu. To je najbolje učiniti putem skrivenog polja:',
 
 		'To redirect to a different location upon a successful save, include the redirect location in the form. This is best as a hidden field like so, where the value is the URL to redirect to:' => 
-		'Um nach erfolgreichem Speichern zu einer anderen Adresse weiterzuleiten, müssen Sie das Umleitungsziel im Formular einbinden. Dies geht am besten mit einem versteckten Textfeld, wobei der Wert der Ziel-URL entspricht:',
+		'To redirect to a different location upon a successful save, include the redirect location in the form. This is best as a hidden field like so, where the value is the URL to redirect to::',
 
 		'Transformed XML is invalid.' => 
-		'Das umgewandelte XML is ungültig.',
+		'Transformirani XML nije valjan.',
 
 		'Tue' => 
-		'Di',
+		'Uto',
 
 		'Tuesday' => 
-		'Dienstag',
+		'Utorak',
 
 		'Type' => 
-		'Typ',
+		'Tip',
 
 		'Type and hit enter to apply filter…' => 
-		'Filterwert mit Enter bestätigen …',
+		'Unesi i pritisni enter da bi primijenio filtar …',
 
 		'Type to search' => 
-		'Tippen und suchen',
+		'Utipkaj da bi pretražio',
 
 		'URL' => 
 		'URL',
 
 		'Unable to connect via TLS' => 
-		'TLS-Verbindung nicht möglich',
+		'Nemoguće je povezati se preko TLS',
 
 		'Unable to create path - %s' => 
-		'Der Pfad %s konnte nicht erstellt werden',
+		'Nemoguće je stvoriti putanju - %s ',
 
 		'Unable to find a Manager class for this resource.' => 
-		'Manager-Klasse für die Resource konnte nicht gefunden werden.',
+		'Nemoguće je pronaći Manager klasu za ovaj resurs.',
 
 		'Unable to open socket. %s' => 
-		'Socket konnte nicht geöffnet werden. %s',
+		'Nije moguće otvoriti socket. %s',
 
 		'Unable to open socket. Unknown error' => 
-		'Socket konnte nicht geöffnet werden. Unbekannter Fehler',
+		'Nemoguće je otvoriti socket*. Nepoznata greška',
 
 		'Unable to remove - %s' => 
-		'%s konnte nicht entfernt werden',
+		'Nemoguće je maknuti%s',
 
 		'Unable to remove file - %s' => 
-		'Datei konnte nicht entfernt werden – %s',
+		'Nemoguće je maknuti fajl – %s',
 
 		'Unable to set timeout.' => 
-		'Timeout konnte nicht gesetzt werden.',
+		'Unable to set timeout.',
 
 		'Underflow or the modes mismatch.' => 
-		'Bereichsunterschreitung oder falsche Moduszuordnung.',
+		'Underflow or the modes mismatch.',
 
 		'Undo?' => 
-		'Rückgängig machen?',
+		'Poništiti radnju?',
 
 		'Unexpected control character found.' => 
-		'Unerwartetes Steuerzeichen gefunden.',
+		'Neočekivani control character* je nađen.',
 
 		'Unfortunately no account was found using this information.' => 
-		'Leider konnte kein Account mit diesen Informationen gefunden werden.',
+		'Nažalost, račun sa tim informacijama nije nađen.',
 
 		'Uninstall' => 
-		'Deinstallieren',
+		'Deinstaliraj',
 
 		'Uninstall extension' => 
-		'Erweiterung deinstallieren',
+		'Deinstaliraj extenziju',
 
 		'Uninstall this extension' => 
-		'Diese Erweiterung deinstallieren',
+		'Deinstaliraj ovu extenziju',
 
 		'Universal Resource Locator' => 
 		'Universal Resource Locator',
 
 		'Unknown' => 
-		'Unbekannt',
+		'Nepoznat',
 
 		'Unknown Entry' => 
-		'Unbekannter Eintrag',
+		'Nepoznat Unos',
 
 		'Unknown JSON error' => 
-		'Unbekannter JSON-Fehler',
+		'Nepoznata JSON-greška',
 
 		'Unknown Section' => 
-		'Unbekannter Bereich',
+		'Nepoznata Sekcija',
 
 		'Unknown errors occurred while attempting to save.' => 
-		'Beim Speichern ist ein unbekannter Fehler aufgetreten.',
+		'Nepoznate greške su se dogodile dok je sustav pokušavao sačuvati.',
 
 		'Unknown errors where encountered when saving.' => 
-		'Beim Speichern sind unbekannte Fehler aufgetreten.',
+		'Došlo je do nepoznatih grešaka prilikom spremanja.',
 
 		'Unsupported SSL type' => 
-		'Nicht unterstützter SSL-Typ',
+		'Nepodržan SSL-Tip',
 
 		'Untitled' => 
-		'Ohne Titel',
+		'Bez naslova',
 
 		'Untitled Field' => 
-		'Unbenanntes Feld',
+		'Polje bez naslova',
 
 		'Update' => 
-		'aktualisieren',
+		'Ažuriraj',
 
 		'Update available' => 
-		'Aktualisierung verfügbar',
+		'Obnova je dostupna',
 
 		'Uploading ‘%s’ failed. Could not write temporary file to disk.' => 
-		'Das Hochladen von ‚%s‘ ist fehlgeschlagen. Es konnte keine temporäre Datei gespeichert werden.',
+		'Upload ‚%s‘ nije uspio. Privremeni fajl nije mogao biti zapisan na disk.',
 
 		'Uploading ‘%s’ failed. File upload stopped by extension.' => 
-		'Das Hochladen von ‚%s‘ ist fehlgeschlagen. Der Vorgang wurde von einer Erweiterung gestoppt.',
+		'Upload ‚%s‘ nije uspio. Upload fajla zaustavljen je od strane extenzije.',
 
 		'Upon the event successfully saving the entry, this option takes input from the form and send an email to the desired recipient.' => 
-		'Sobald das Ereignis erfolgreich gespeichert wurde, wird diese Filteroption alle Einträge des Formulars per E-Mail an den ausgewählten Empfänger senden.',
+		'Upon the event successfully saving the entry, this option takes input from the form and send an email to the desired recipient.',
 
 		'Use %s syntax to filter by page parameters.' => 
-		'Verwenden Sie %s, um mit Seitenparametern zu filtern.',
+		'Koristi %s, sintaksu kako bi filtrirao po parametrima stranice.',
 
 		'Use %s syntax to limit by page parameters.' => 
-		'Verwenden Sie %s, um mit Seitenparametern zu begrenzen',
+		'Koristi %s, sintaxu kako bi limitirao po parametrima stranice.',
 
 		'Use %s syntax to order by page parameters.' => 
-		'Verwenden Sie die %s-Syntax um nach Seitenparametern zu sortieren',
+		'Koristi %s sintaxu kako bi poredao po parametrima stranice',
 
 		'User Type' => 
-		'Benutzertyp',
+		'Tip korisnika',
 
 		'Username' => 
-		'Benutzername',
+		'Korisničko ime',
 
 		'Username is already taken' => 
-		'Dieser Benutzername ist bereits vergeben',
+		'Korisničko ime je već zauzeto',
 
 		'Username is required' => 
-		'Der Benutzername ist eine Pflichtangabe',
+		'Korisničko ime je potrebno',
 
 		'Utility' => 
-		'Baustein',
+		'Utility',
 
 		'Validation Rule' => 
-		'Validierungsregel',
+		'Validacijsko pravilo',
 
 		'Validation rule is not a valid regular expression' => 
-		'Die Validierungsregel ist kein gültiger regulärer Ausdruck',
+		'Validacijsko pravilo nije valjana regularna expresija',
 
 		'Value' => 
-		'Wert',
+		'Vrijednost',
 
 		'Version' => 
-		'Version',
+		'Verzija',
 
 		'View Entries' => 
-		'Zeige Einträge',
+		'Vidi unose',
 
 		'View Page' => 
-		'Zeige Seite',
+		'Vidi Stranicu',
 
 		'View Page on Frontend' => 
-		'Zeige Seite im Frontend',
+		'Vidi stranicu u frontendu',
 
 		'View Section Entries' => 
-		'Zeige Einträge des Bereichs',
+		'Vidi Unose Sekcije',
 
 		'View all Authors' => 
-		'Zeige alle Autoren',
+		'Vidi sve autore',
 
 		'View all Data Sources' => 
-		'Zeige alle Datenquellen',
+		'Vidi sve Izvore podataka',
 
 		'View all Entries' => 
-		'Zeige alle Einträge',
+		'Vidi sve Unose',
 
 		'View all Events' => 
-		'Alle Ereignisse anzeigen',
+		'Vidi sve Događaje',
 
 		'View all Pages' => 
-		'Alle Seiten anzeigen',
+		'Vidi sve Stranice',
 
 		'View all Sections' => 
-		'Zeige alle Bereiche',
+		'Vidi sve Sekcije',
 
 		'View extensions' => 
-		'Zeige Erweiterungen',
+		'Vidi extenzije',
 
 		'View update.' => 
-		'Zeige Aktualisierung.',
+		'Vidi ažuriranje.',
 
 		'Viewing %1$s - %2$s of %3$s entries' => 
-		'Zeige %1$s - %2$s von %3$s Einträgen',
+		'Pregled %1$s - %2$s od %3$s unosa',
 
 		'Wed' => 
-		'Mi',
+		'Sri',
 
 		'Wednesday' => 
-		'Mittwoch',
+		'Srijeda',
 
 		'When an error occurs during saving, due to either missing or invalid fields, the following XML will be returned.' => 
-		'Wenn beim Speichern aufgrund eines fehlenden oder ungültigen Feldes ein Fehler auftritt, wird das nachfolgende XML ausgegeben.',
+		'Kada dođe do greške tokom spremanja, zbog polja koja nedostaju ili nisu valjana, sljedeći XML će biti vraćen.',
 
 		'When saved successfully, the following XML will be returned:' => 
-		'Nach erfolgreicher Speicherung, wird nachfolgendes XML ausgegeben:',
+		'Kada je uspješno sačuvano, sljedeći  XML će biti vraćen:',
 
 		'With Selected...' => 
-		'Auswahl &#8230;',
+		'Sa odabranim &#8230;',
 
 		'Wrong password, please enter your own password to make changes to this author.' => 
-		'Falsches Passwort, bitte geben Sie Ihr eigenens Passwort ein, um diesen Autor zu bearbeiten.',
+		'Pogrešna lozinka, unesi vlastitu lozinku kako bi napravio promjene ovog autora.',
 
 		'Wrong password. Enter old one to change email address.' => 
-		'Falsches Passwort. Geben Sie Ihr altes Passwort zum Ändern der E-Mail-Adresse ein.',
+		'Pogrešna lozinka. Unesi staru kako bi promijenio e-mail adresu.',
 
 		'Wrong password. Enter old password to change it.' => 
-		'Falsches Passwort. Geben Sie Ihr altes Passwort zum Ändern ein.',
+		'Pogrešna lozinka. Unesi staru lozinku kako bi ju promijenio.',
 
 		'XML is invalid.' => 
-		'Das XML ist ungültig',
+		'XML nije valjan',
 
 		'XSLT Processing Error' => 
-		'XSLT-Verarbeitungsfehler',
+		'XSLT-Greška Procesiranja',
 
 		'Yes' => 
-		'Ja',
+		'Da',
 
 		'You are not authorised to access this page.' => 
-		'Sie sind nicht berechtigt diese Seite zu besuchen.',
+		'Nemaš autorizaciju da bi pristupio ovoj stranici.',
 
 		'You are not authorised to edit other authors.' => 
-		'Sie haben keine Rechte andere Autoren zu bearbeiten.',
+		'Nisi autoriziran da uređuješ druge autore.',
 
 		'You can try uninstalling the extension to continue, or you might want to ask on the forums' => 
-		'Sie können versuchen die Erweiterung zu deinstallieren, um fortzufahren, oder Sie fragen im Forum um Hilfe.',
+		'Možeš pokušati deinstalirati extenziju kako bi nastavio, ili možeš pitati na forumu/gitter chatu.',
 
 		'You cannot remove yourself as you are the active Author.' => 
-		'Sie können sich nicht selbst entfernen, da Sie der aktive Nutzer sind.',
+		'Ne možeš maknuti sebe sa aktivnih autora.',
 
 		'Your Password' => 
-		'Ihr Passwort',
+		'Tvoja lozinka',
 
 		'Your Symphony installation is up to date, but the installer was still detected. For security reasons, it should be removed.' => 
-		'Ihre Symphony-Installation ist auf dem neusten Stand aber das Installationsskript ist noch vorhanden. Aus Sicherheitsgründen sollte es entfernt werden.',
+		'Tvoja Symphony instalacija je aktualna, ali instalacijski folder nije maknut. Zbog sigurnosnih razloga, trebalo bi ga maknuti.',
 
 		'[Symphony] A new entry was created on %s' => 
-		'[Symphony] Ein neuer Eintrag auf %s wurde erstellt',
+		'[Symphony] Novi unos je stvoren u %s',
 
 		'a minute ago' => 
-		'vor einer Minute',
+		'prije 1 minute',
 
 		'about 1 hour ago' => 
-		'vor etwa einer Stunde',
+		'prije oko 1 sat',
 
 		'about {$hours} hours ago' => 
-		'vor etwa {$hours} Stunden',
+		'prije oko {$hours} sati',
 
 		'ascending' => 
-		'aufsteigend',
+		'rastućem',
 
 		'at' => 
 		'um',
 
 		'day' => 
-		'Tag',
+		'dan',
 
 		'days' => 
-		'Tage',
+		'dani',
 
 		'descending' => 
-		'absteigend',
+		'padajućem',
 
 		'drag to reorder' => 
-		'manuelle Sortierung',
+		'povuci kako bi promijenio redosljed',
 
 		'eighth' => 
-		'achte(r|s)?',
+		'osmi',
 
 		'eleventh' => 
-		'elfte(r|s)?',
+		'jedanaesti',
 
 		'fifth' => 
-		'fünfte(r|s)',
+		'pet(i|a)',
 
 		'filtered' => 
-		'gefiltert',
+		'filtrirano',
 
 		'filtered (%d of %d)' => 
-		'gefiltert (%d von %d)',
+		'filtrirano (%d od %d)',
 
 		'first' => 
-		'erste(r|s)?',
+		'prv(i|a)?',
 
 		'forthnight' => 
-		'14 Tage',
+		'14 dana',
 
 		'forthnights' => 
-		'14 Tage',
+		'14 dana',
 
 		'fortnight' => 
-		'14 Tage',
+		'14 dana',
 
 		'fortnights' => 
-		'14 Tage',
+		'14 dana',
 
 		'fourth' => 
-		'vierte(r|s)?',
+		'četvrti',
 
 		'hour' => 
-		'Stunde',
+		'sat',
 
 		'hours' => 
-		'Stunden',
+		'sati',
 
 		'just now' => 
-		'gerade eben',
+		'upravo sad',
 
 		'last' => 
-		'letzte(r|s)?',
+		'posljednj(i|a)?',
 
 		'list of comma-separated author usernames.' => 
-		'Liste kommagetrennter Benutzernamen.',
+		'lista korisničkih imena autora razdvojenih zarezom.',
 
 		'min' => 
 		'Min',
@@ -1810,179 +1812,179 @@
 		'Min',
 
 		'minute' => 
-		'Minute',
+		'minute',
 
 		'minutes' => 
-		'Minuten',
+		'minuta',
 
 		'month' => 
-		'Monat',
+		'mjesec',
 
 		'months' => 
-		'Monate',
+		'mjeseci',
 
 		'next' => 
-		'mehr',
+		'sljedeći',
 
 		'ninth' => 
-		'neunte(r|s)?',
+		'devet(i|a)?',
 
 		'no leading zeros' => 
-		'ohne führende Null',
+		'bez nula ispred',
 
 		'now' => 
-		'jetzt',
+		'sad',
 
 		'optional, accepts absolute or relative dates' => 
-		'optional, absolute und relative Datumsangaben möglich',
+		'opcinalno, prihvaća apsolutne ili relativne datume',
 
 		'previous' => 
-		'nächste(r|s)?',
+		'prošli',
 
 		'read only' => 
-		'schreibgeschützt',
+		'samo za čitanje',
 
 		'required' => 
-		'verpflichtend',
+		'traženo',
 
 		'requires Symphony %s' => 
-		'benötigt Symphony %s',
+		'traži Symphony %s',
 
 		'sec' => 
 		'Sek',
 
 		'second' => 
-		'zweite(r|s)?',
+		'sekundi',
 
 		'seconds' => 
-		'Sekunden',
+		'sekundi',
 
 		'secs' => 
-		'Sek',
+		'sek',
 
 		'seventh' => 
-		'siebte(r|s)?',
+		'sedm(i|a)?',
 
 		'sixth' => 
-		'sechste(r|s)?',
+		'šest(i|a)?',
 
 		'tenth' => 
-		'zehnte(r|s)?',
+		'deset(i|a)?',
 
 		'third' => 
-		'dritte(r|s)?',
+		'treć(i|a)?',
 
 		'this' => 
-		'diese(r|s)?',
+		'ovaj',
 
 		'today' => 
-		'heute',
+		'danas',
 
 		'tomorrow' => 
-		'morgen',
+		'sutra',
 
 		'twelfth' => 
-		'zwölfte(r|s)?',
+		'dvanaesti',
 
 		'untitled' => 
-		'Ohne Titel',
+		'bez naslova',
 
 		'week' => 
-		'Woche',
+		'tjedan',
 
 		'weekday' => 
-		'Wochentag',
+		'radni dan',
 
 		'weekdays' => 
-		'Wochentage',
+		'radni dani',
 
 		'weeks' => 
-		'Wochen',
+		'tjedni',
 
 		'year' => 
-		'Jahr',
+		'godina',
 
 		'years' => 
-		'Jahre',
+		'godine',
 
 		'yesterday' => 
-		'gestern',
+		'jučer',
 
 		'{$minutes} minutes ago' => 
-		'vor {$minutes} Minuten',
+		'prije {$minutes} minuta',
 
 		'{$param}' => 
 		'{$param}',
 
 		'‘%s’ contains invalid XML.' => 
-		'‚%s‘ enthält ungültiges XML.',
+		'‚%s‘ sadrži nevaljani XML.',
 
 		'‘%s’ contains invalid data. Please check the contents.' => 
-		'‚%s‘ enthält ungültige Werte. Bitte überprüfen Sie den Inhalt.',
+		'‚%s‘ sadržava nevaljane podatke. Provjeri sadržaj.',
 
 		'‘%s’ is a required field.' => 
-		'‚%s‘ ist ein Pflichtfeld.',
+		'‚%s‘ je traženo polje.',
 
 		// Obsolete
 
 		'contains' => 
-		'enthält',
+		'sadržava',
 
 		'does not contain' => 
-		'enthält nicht',
+		'ne sadržava',
 
 		'earlier than' => 
-		'früher als',
+		'ranije od',
 
 		'equal to or earlier than' => 
-		'gleich oder früher als',
+		'jednako ili ranije od',
 
 		'equal to or later than' => 
-		'gleich oder später als',
+		'jednako ili kasnije od',
 
 		'is' => 
-		'entspricht',
+		'odgovara',
 
 		'later than' => 
-		'später als',
+		'kasnije od',
 
 		// Missing
 
 		'The Symphony calendar widget has been disabled because your system date format is currently not supported. Try one of the following instead or disable the calendar in the field settings:' => 
-		'Der Symphony-Kalendar wurde deaktiviert, weil Ihr Systemdatumsformat derzeit nicht unterstützt wird. Verwenden Sie eines der nachfolgenden oder deaktivieren Sie den Kalender in den Feldeinstellungen:',
+		'Symphony kalendar widget je onemogućen, jer vaš system date format trenutno nije podržan. Umjesto toga pokušaj jedno od sljedećeg ili onemogući kalendar u postavkama polja:',
 
 		'no leading zero' => 
-		'ohne führende Null',
+		'bez nule ispred',
 
 		'Redirect to 404 page when the required parameter is not present' => 
-		'Leite zur 404-Seite weiter, wenn das Pflichtparameter nicht gesetzt ist',
+		'Preusmjeri na stranicu 404 kada traženi parametar nije prisutan',
 
 		'Redirect to 404 page when the forbidden parameter is present' => 
-		'Leite zur 404-Seite weiter, wenn das Ausschlussparameter gesetzt ist',
+		'Preusmjeri na stranicu 404 kada je prisutan zabranjeni parametar',
 
 		'Redirect to 404 page when no results are found' => 
-		'Leite zur 404-Seite weiter, wenn keine Ergebnisse gefunden werden',
+		'Preusmjeri na stranicu 404 kada rezultati nisu nađeni',
 
 		'Enable pagination' => 
-		'Aktiviere Paginierung',
+		'Omogući paginaciju',
 
 		'Include a count of entries in associated sections' => 
-		'Zahl verknüpfter Einträge ausgeben',
+		'Uključi brojanje unosa u asociranim sekcijama',
 
 		'HTML-encode text' => 
-		'HTML-kodierter Text',
+		'HTML-enkodiraj text',
 
 		'Hide this section from the back-end menu' => 
-		'Bereich im Menü verstecken',
+		'Sakrij ovu sekciju iz administratorskog izbornika',
 
 		'Allow filtering of section entries' => 
-		'Filtern der Einträge erlauben',
+		'Dopusti filtriranje unosa sekcija',
 
 		'GitHub' => 
 		'Github',
 
 		'Discuss' => 
-		'Diskussionen',
+		'Raspravljaj',
 
 		'Homepage' => 
 		'Homepage',
@@ -1991,47 +1993,47 @@
 		'Wiki',
 
 		'Issues' => 
-		'Problemmeldungen',
+		'Problemi',
 
 		'There was a problem rendering this page. Please check the activity log for more details.' => 
-		'Beim Rendering der Seite ist ein Fehler aufgetreten. Bitte überprüfen Sie das Aktivitätslog für weitere Details.',
+		'Došlo je do problema sa prikazivanjem ove stranice. Molimo provjerite dnevnik aktivnosti (activity log) za više detalja.',
 
 		'A message must be supplied unless the alert is of type Alert::ERROR' => 
-		'Eine Nachricht muss beigefügt werden sofern es sich nicht um einen Alert::ERROR handelt',
+		'Poruka mora biti supplied, osim ako je alert tipa Alert::ERROR',
 
 		'Make this a required field' => 
-		'Dieses Feld verpflichtend machen',
+		'Učini ovo polje obaveznim',
 
 		'Display in entries table' => 
-		'In Eintragsübersicht anzeigen',
+		'Prikaži u tablici unosa',
 
 		'Display associations in entries table' => 
-		'Zeige Verknüpfungen in Eintragsübersicht',
+		'Prikaži asocijacije u tablici unosa',
 
 		'Allow selection of multiple authors' => 
-		'Erlaube die Auswahl mehrerer Autoren',
+		'Dopusti odabir više autora',
 
 		'Select current user by default' => 
-		'Aktuellen Nutzer standardmäßig auswählen',
+		'Odaberi trenutnog korisnika po defaultu',
 
 		'Display time' => 
-		'Zeit anzeigen',
+		'Pokaži vrijeme',
 
 		'Show calendar' => 
-		'Zeige Kalender',
+		'Prikaži kalendar',
 
 		'Allow selection of multiple options' => 
-		'Erlaube Mehrfachauswahl',
+		'Dopusti odabir višestrukih opcija',
 
 		'Sort all options alphabetically' => 
-		'Sortiere alle Optionen alphabetisch',
+		'Sortiraj sve opcije abecednim redom',
 
 		// Namespaced translations for Data Sources
 
 		'/blueprints/datasources' => array(
 
 			'Create another?' => 
-			'Eine neue erstellen?',
+			'Stvori drugi?',
 
 		),
 
@@ -2040,7 +2042,7 @@
 		'/blueprints/events' => array(
 
 			'Create another?' => 
-			'Ein neues erstellen?',
+			'Stvori drugi?',
 
 		),
 
@@ -2049,7 +2051,7 @@
 		'/blueprints/pages' => array(
 
 			'Create another?' => 
-			'Eine neue erstellen?',
+			'Stvori drugu?',
 
 		),
 
