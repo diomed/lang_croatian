@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="lang_croatian" status="beta" xmlns="http://symphony-cms.com/schemas/extension/1.0">
-	<name>Language: Croatian</name>
+	<name>Language: Croatian (Hrvatski)</name>
 	<description>Croatian translation for Symphony</description>
 	<repo type="github">https://github.com/diomed/lang_croatian</repo>
 	<types>
