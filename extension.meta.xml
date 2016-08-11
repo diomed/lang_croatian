@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="lang_german" status="beta" xmlns="http://symphony-cms.com/schemas/extension/1.0">
-	<name>Language: German</name>
-	<description>German translation for Symphony</description>
-	<repo type="github">https://github.com/animaux/lang_german</repo>
-	<url type="discuss">http://symphony-cms.com/discuss/thread/632/</url>
+<extension id="lang_croatian" status="beta" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Language: Croatian</name>
+	<description>Croatian translation for Symphony</description>
+	<repo type="github">https://github.com/diomed/lang_croatian</repo>
 	<types>
 		<type>Translations</type>
 	</types>
 	<authors>
+		<author>
+			<name github="diomed" symphony="hananils">Diomed</name>
+			<website>https://github.com/diomed</website>
+		</author>
 		<author>
 			<name github="hananils" symphony="hananils">Büro für Web- und Textgestaltung</name>
 			<website>http://hananils.de</website>
