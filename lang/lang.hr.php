@@ -372,7 +372,7 @@
 		'Stvori sekciju',
 
 		'Create another?' => 
-		'Da stvorim iduću?',
+		'Da stvorim idući?',
 
 		'Created by %1$s at %2$s' => 
 		'Stvoreno od %1$s u %2$s',
